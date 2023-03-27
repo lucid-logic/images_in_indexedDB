@@ -4,7 +4,7 @@ A proof of concept. Web /Capacitor app for taking photos and saving them to inde
 
 Using Quasar (Vue framework)
 
-[Click here to view a sample of the app running] (https://d31jmr1y1p5qq7.cloudfront.net/#/)
+[Click here to view a sample of the app running](https://d31jmr1y1p5qq7.cloudfront.net/#/)
 
 ## Install the dependencies
 ```bash
