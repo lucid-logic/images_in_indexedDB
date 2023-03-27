@@ -1,0 +1,7 @@
+{
+	"appId": "com.lucidlogic.camtest",
+	"appName": "Camera Test",
+	"bundledWebRuntime": false,
+	"npmClient": "npm",
+	"webDir": "www"
+}

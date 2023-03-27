@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Camera Test</string>
+    <string name="title_activity_main">Camera Test</string>
+    <string name="package_name">com.lucidlogic.camtest</string>
+    <string name="custom_url_scheme">com.lucidlogic.camtest</string>
+</resources>
